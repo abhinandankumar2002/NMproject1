@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "C:\\Users\\veera\\.gradle\\daemon\\8.9\\com.example.travelapp-merged_res-41:\\drawable_trav.png.flat",
+        "source": "C:\\Users\\veera\\.gradle\\daemon\\8.9\\com.example.travelapp-main-43:\\drawable\\trav.png"
+    },
+    {
+        "merged": "C:\\Users\\veera\\.gradle\\daemon\\8.9\\com.example.travelapp-merged_res-41:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\veera\\.gradle\\daemon\\8.9\\com.example.travelapp-main-43:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\veera\\.gradle\\daemon\\8.9\\com.example.travelapp-merged_res-41:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\veera\\.gradle\\daemon\\8.9\\com.example.travelapp-main-43:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\veera\\.gradle\\daemon\\8.9\\com.example.travelapp-merged_res-41:\\drawable-nodpi_singapore.jpg.flat",
+        "source": "C:\\Users\\veera\\.gradle\\daemon\\8.9\\com.example.travelapp-main-43:\\drawable-nodpi\\singapore.jpg"
+    },
+    {
+        "merged": "C:\\Users\\veera\\.gradle\\daemon\\8.9\\com.example.travelapp-merged_res-41:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\veera\\.gradle\\daemon\\8.9\\com.example.travelapp-main-43:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\veera\\.gradle\\daemon\\8.9\\com.example.travelapp-merged_res-41:\\drawable_kanyakumari.jpg.flat",
+        "source": "C:\\Users\\veera\\.gradle\\daemon\\8.9\\com.example.travelapp-main-43:\\drawable\\kanyakumari.jpg"
+    },
+    {
+        "merged": "C:\\Users\\veera\\.gradle\\daemon\\8.9\\com.example.travelapp-merged_res-41:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\veera\\.gradle\\daemon\\8.9\\com.example.travelapp-main-43:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.travelapp-merged_res-41:/drawable_login.png.flat",
+        "source": "com.example.travelapp-main-43:/drawable/login.png"
+    },
+    {
+        "merged": "C:\\Users\\veera\\.gradle\\daemon\\8.9\\com.example.travelapp-merged_res-41:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\veera\\.gradle\\daemon\\8.9\\com.example.travelapp-main-43:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\veera\\.gradle\\daemon\\8.9\\com.example.travelapp-merged_res-41:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\veera\\.gradle\\daemon\\8.9\\com.example.travelapp-main-43:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\veera\\.gradle\\daemon\\8.9\\com.example.travelapp-merged_res-41:\\drawable_meenakshi_temple.jpg.flat",
+        "source": "C:\\Users\\veera\\.gradle\\daemon\\8.9\\com.example.travelapp-main-43:\\drawable\\meenakshi_temple.jpg"
+    },
+    {
+        "merged": "C:\\Users\\veera\\.gradle\\daemon\\8.9\\com.example.travelapp-merged_res-41:\\mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "C:\\Users\\veera\\.gradle\\daemon\\8.9\\com.example.travelapp-main-43:\\mipmap-anydpi-v33\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\veera\\.gradle\\daemon\\8.9\\com.example.travelapp-merged_res-41:\\drawable_tra.png.flat",
+        "source": "C:\\Users\\veera\\.gradle\\daemon\\8.9\\com.example.travelapp-main-43:\\drawable\\tra.png"
+    },
+    {
+        "merged": "com.example.travelapp-merged_res-41:/drawable_sign_up.png.flat",
+        "source": "com.example.travelapp-main-43:/drawable/sign_up.png"
+    },
+    {
+        "merged": "C:\\Users\\veera\\.gradle\\daemon\\8.9\\com.example.travelapp-merged_res-41:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\veera\\.gradle\\daemon\\8.9\\com.example.travelapp-main-43:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\veera\\.gradle\\daemon\\8.9\\com.example.travelapp-merged_res-41:\\drawable_travel_and_tourism.png.flat",
+        "source": "C:\\Users\\veera\\.gradle\\daemon\\8.9\\com.example.travelapp-main-43:\\drawable\\travel_and_tourism.png"
+    },
+    {
+        "merged": "C:\\Users\\veera\\.gradle\\daemon\\8.9\\com.example.travelapp-merged_res-41:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\veera\\.gradle\\daemon\\8.9\\com.example.travelapp-main-43:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\veera\\.gradle\\daemon\\8.9\\com.example.travelapp-merged_res-41:\\drawable_plane.png.flat",
+        "source": "C:\\Users\\veera\\.gradle\\daemon\\8.9\\com.example.travelapp-main-43:\\drawable\\plane.png"
+    },
+    {
+        "merged": "C:\\Users\\veera\\.gradle\\daemon\\8.9\\com.example.travelapp-merged_res-41:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\veera\\.gradle\\daemon\\8.9\\com.example.travelapp-main-43:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\veera\\.gradle\\daemon\\8.9\\com.example.travelapp-merged_res-41:\\drawable_rameshwaram.jpg.flat",
+        "source": "C:\\Users\\veera\\.gradle\\daemon\\8.9\\com.example.travelapp-main-43:\\drawable\\rameshwaram.jpg"
+    },
+    {
+        "merged": "C:\\Users\\veera\\.gradle\\daemon\\8.9\\com.example.travelapp-merged_res-41:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\veera\\.gradle\\daemon\\8.9\\com.example.travelapp-main-43:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\veera\\.gradle\\daemon\\8.9\\com.example.travelapp-merged_res-41:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\veera\\.gradle\\daemon\\8.9\\com.example.travelapp-main-43:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\veera\\.gradle\\daemon\\8.9\\com.example.travelapp-merged_res-41:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\veera\\.gradle\\daemon\\8.9\\com.example.travelapp-main-43:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\veera\\.gradle\\daemon\\8.9\\com.example.travelapp-merged_res-41:\\drawable-nodpi_bali.jpg.flat",
+        "source": "C:\\Users\\veera\\.gradle\\daemon\\8.9\\com.example.travelapp-main-43:\\drawable-nodpi\\bali.jpg"
+    },
+    {
+        "merged": "C:\\Users\\veera\\.gradle\\daemon\\8.9\\com.example.travelapp-merged_res-41:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\veera\\.gradle\\daemon\\8.9\\com.example.travelapp-main-43:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\veera\\.gradle\\daemon\\8.9\\com.example.travelapp-merged_res-41:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\veera\\.gradle\\daemon\\8.9\\com.example.travelapp-main-43:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\veera\\.gradle\\daemon\\8.9\\com.example.travelapp-merged_res-41:\\drawable-nodpi_paris.jpg.flat",
+        "source": "C:\\Users\\veera\\.gradle\\daemon\\8.9\\com.example.travelapp-main-43:\\drawable-nodpi\\paris.jpg"
+    },
+    {
+        "merged": "C:\\Users\\veera\\.gradle\\daemon\\8.9\\com.example.travelapp-merged_res-41:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\veera\\.gradle\\daemon\\8.9\\com.example.travelapp-main-43:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\veera\\.gradle\\daemon\\8.9\\com.example.travelapp-merged_res-41:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\veera\\.gradle\\daemon\\8.9\\com.example.travelapp-main-43:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    }
+]

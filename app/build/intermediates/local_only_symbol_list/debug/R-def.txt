@@ -1,0 +1,37 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable bali
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable kanyakumari
+drawable login
+drawable meenakshi_temple
+drawable paris
+drawable plane
+drawable rameshwaram
+drawable sign_up
+drawable singapore
+drawable tra
+drawable trav
+drawable travel_and_tourism
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string description
+string place_1
+string place_2
+string place_3
+string plan
+string title_activity_kanyakumari
+string title_activity_madurai
+string title_activity_rameswaram
+style Theme.TravelApp
+xml backup_rules
+xml data_extraction_rules
